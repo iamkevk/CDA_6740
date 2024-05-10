@@ -30,15 +30,16 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 
 - **Demographic**: The final sample analyzed contained 2245 males (89.9%) and 252 females (10.15). The average age was 29.58 years, with a standard deviation of 8.99 years. The median age was 27, and 75% were under 35 years old. The oldest player was 69. Geographically, the top three countries of player residence were France (27.75%), Germany (26.51%), and Belgium (5.93%).
 - **Poker Activity**: See Table 1, a Summary of Statistics of Poker Activity Measures for the entire analytic sample (N = 2497).
-![Table 1: Summary Statistics of Poker Activity Measures for the entire analytic sample (N = 2497)](https://github.com/iamkevk/CDA_6740/assets/66114561/0ea3b03f-6434-4e53-a815-b3e34dcc1cd9)
+
+![Table 1: Summary Statistics of Poker Activity Measures for the entire analytic sample (N = 2497)](https://github.com/iamkevk/CDA_6740/assets/66114561/7093a9f2-76ac-4aba-a161-3af3e166e6a5)
+
+***Note***: Negative loss means gains 
 
 - **Financial Activity**: Players deposit an average of €1,144.80, but with a very high standard deviation (€4,370.28), indicating some users deposit significantly more than others. The highest amount deposited by a single user is €112,337.90. The average amount deposited per day a user makes a deposit is €62.40, but this varies widely (std. dev. €158.82). The highest average amount deposited per day is €3,114.82.
 
 - **Highly Involved Players**: We identified the most engaged players using their total overall spend and total stakes in cash and tournament games. See Figure 2 and Table 2 for a percentile plot of total overall spending details.
 
-![Figure 2: Percentile Plot of Total overall spend](https://github.com/iamkevk/CDA_6740/assets/66114561/b5115c45-7fef-448f-ae9f-26392468eb09)
-
-
+![Figure 2: Percentile Plot of Total overall spend](https://github.com/iamkevk/CDA_6740/assets/66114561/fdf217ba-7591-45bc-99f2-639596087ada)
 
 ![Table 2](https://github.com/iamkevk/CDA_6740/assets/66114561/42fa0716-929b-49b2-b848-10bf7c3863fe)
 
