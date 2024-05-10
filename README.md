@@ -41,7 +41,7 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 
 ![Figure 2: Percentile Plot of Total overall spend](https://github.com/iamkevk/CDA_6740/assets/66114561/fdf217ba-7591-45bc-99f2-639596087ada)*Figure 2: Percentile Plot of Total overall spend*
 
-![Table 2](https://github.com/iamkevk/CDA_6740/assets/66114561/42fa0716-929b-49b2-b848-10bf7c3863fe)**
+![Table 2: Figures of Percentile Overall Total Spend](https://github.com/iamkevk/CDA_6740/assets/66114561/42fa0716-929b-49b2-b848-10bf7c3863fe)*Figures of Percentile Overall Total Spend*
 
 
 
