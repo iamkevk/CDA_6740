@@ -20,7 +20,7 @@ Among these players, a subset can be categorized as "Highly Involved Players" (H
 
 The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comprehensive multi-step process and allows us to leverage various machine learning techniques. Figure 1 is a summarization of the methodology used.
 
-![Figure 1: Methodology Flowchart](https://github.com/iamkevk/CDA_6740/assets/66114561/37958736-d18b-4362-979e-46ee6109edd1)
+![Figure 1: Methodology Flowchart](https://github.com/iamkevk/CDA_6740/assets/66114561/37958736-d18b-4362-979e-46ee6109edd1)*Figure 1: Methodology Flowchart*
 
 ## Key findings
 
