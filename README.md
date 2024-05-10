@@ -40,6 +40,8 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 
 
 
+![Table 2](https://github.com/iamkevk/CDA_6740/assets/66114561/42fa0716-929b-49b2-b848-10bf7c3863fe)
+
 
 
 
