@@ -16,8 +16,13 @@ Gambling involves risk-taking and potentially can lead to problematic behaviors 
 
 Among these players, a subset can be categorized as "Highly Involved Players" (HIPs) – individuals who engage in online poker with higher financial involvement, higher intensity, frequency, and duration than the average player. While there are benefits associated with being a dedicated player, such as skill improvement and potential monetary gains, there are also concerns related to addiction, financial distress, and other negative socio-psychological implications.
 
+## Methodology
 
-![image](https://github.com/iamkevk/CDA_6740/assets/66114561/37958736-d18b-4362-979e-46ee6109edd1)
+The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comprehensive multi-step process and allows us to leverage various machine learning techniques. Figure 1 is a summarization of the methodology used.
+
+![Figure 1: Methodology Flowchart](https://github.com/iamkevk/CDA_6740/assets/66114561/37958736-d18b-4362-979e-46ee6109edd1)
+
+## Key findings
 
 
 
