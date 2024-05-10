@@ -22,8 +22,6 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 
 ![Figure 1: Methodology Flowchart](https://github.com/iamkevk/CDA_6740/assets/66114561/37958736-d18b-4362-979e-46ee6109edd1)*Figure 1: Methodology Flowchart*
 
-## Key findings
-
 ### Exploratory Data Analysis (EDA) 
 
 > Modified from [^4]
@@ -43,7 +41,12 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 
 ![Table 2: Figures of Percentile Overall Total Spend](https://github.com/iamkevk/CDA_6740/assets/66114561/42fa0716-929b-49b2-b848-10bf7c3863fe)*Figures of Percentile Overall Total Spend*
 
+For all measures except "OverallNetLoss", there is a statistically significant difference between the top 1% and the remaining players, with p-values well below 0.05. This indicates that the top 1% of
+spenders are indeed more involved based on these measures. For "OverallNetLoss", the distributions between the two groups do not differ significantly (p-value = 0.658).
 
+The very low p-values for measures such as "TotalOverallSpend", "NumberOfSessions", and "AverageSpendPerSession" suggest a very strong difference in distributions, highlighting the disparity between the top spenders and the rest.
+
+### Modelling
 
 
 
