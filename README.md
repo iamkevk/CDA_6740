@@ -1,1 +1,3 @@
-# CDA_6740
+# Behavioral Analysis of Highly Involved Online Poker Players Using Machine Learning
+
+This exploratory project overview is a class group project for `Team 5` in the Georgia Tech's ISYE 6740 Computational Data Analysis / Machine Learning I, graduate elective course offered as part of the [Online Master of Science in Analytics - OMSA](https://pe.gatech.edu/degrees/analytics). The ISYE 6740 class, taught by Prof. Yao Xie in Fall 2023, **is designed to give graduate students a thorough grounding in the methods, theory, mathematics and algorithms needed to do research and applications in machine learning. The course covers topics from machine learning, classical statistics, and data mining**.
