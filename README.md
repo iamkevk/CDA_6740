@@ -51,9 +51,11 @@ The very low p-values for measures such as "TotalOverallSpend", "NumberOfSession
 
 ![Table 3 : Summary Of Results](https://github.com/iamkevk/CDA_6740/assets/66114561/7f6cd498-7b31-4c87-9e5e-4da9cbe2ca2a)*Summary of results*
 
+**Note** : Given the relatively small sample size, some of the modeling performance evaluation metrics exhibited extreme results, indicating that larger and more comprehensive datasets are necessary to achieve a more complete and reliable analysis. Expanding the dataset will help in refining the model's accuracy and providing more generalized conclusions.
 
+### Conclusion 
 
-
+Highly involved players tend to invest significantly more money and time in online betting platforms, a trend expected to continue growing. Given the substantial financial and societal impacts, ongoing research is crucial for gaining a deeper understanding and facilitating informed decision-making. Comprehensive statistical and analytical studies would not only benefit online platforms and policymakers but also the players themselves, aiding in the development of responsible gaming practices and effective regulatory frameworks. 
 
 
 ## References
