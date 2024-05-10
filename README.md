@@ -24,9 +24,19 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 
 ## Key findings
 
-### Exploratory Data Analysis (EDA) [^4]
+### Exploratory Data Analysis (EDA) 
 
-- Demographic
+> Modified from [^4]
+
+- Demographic: The final sample analyzed contained 2245 males (89.9%) and 252 females (10.15). The average age was 29.58 years, with a standard deviation of 8.99 years. The median age was 27, and 75% were under 35 years old. The oldest player was 69. Geographically, the top three countries of player residence were France (27.75%), Germany (26.51%), and Belgium (5.93%).
+- Poker Activity: See Table 1, a Summary of Statistics of Poker Activity Measures for the entire analytic sample (N = 2497).
+![Table 1](https://github.com/iamkevk/CDA_6740/assets/66114561/0ea3b03f-6434-4e53-a815-b3e34dcc1cd9)
+
+- 
+
+
+
+
 
 
 ## References
@@ -34,6 +44,6 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 [^1]: [Market size of the online gambling industry worldwide in 2022, with a forecast for 2032](https://www.statista.com/statistics/270728/market-volume-of-online-gaming-worldwide/)
 [^2]: [Online Gambling Market Size, Share & Trends Analysis Report](https://www.grandviewresearch.com/industry-analysis/online-gambling-market)
 [^3]: [Second Session at the Virtual Poker Table](http://thetransparencyproject.org/Availabledataset.htm)
-[^4]: [Tom et al., 2022)](Tom, M. A., Edson, T. C., Louderback, E. R., Nelson, S. E., Amichia, K. A., & LaPlante, D. A. (2023). Second Session at the Virtual Poker Table: A Contemporary Study of Actual Online Poker Activity. Journal of Gambling Studies, 39(3), 1295-1317.)
+[^4]: [Second Session at the Virtual Poker Table: A Contemporary Study of Actual Online Poker Activity)](https://link.springer.com/article/10.1007/s10899-022-10147-1)
 
 
