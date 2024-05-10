@@ -46,7 +46,12 @@ spenders are indeed more involved based on these measures. For "OverallNetLoss",
 
 The very low p-values for measures such as "TotalOverallSpend", "NumberOfSessions", and "AverageSpendPerSession" suggest a very strong difference in distributions, highlighting the disparity between the top spenders and the rest.
 
-### Modelling
+### Summary of modeling results
+
+
+![Table 3 : Summary Of Results](https://github.com/iamkevk/CDA_6740/assets/66114561/7f6cd498-7b31-4c87-9e5e-4da9cbe2ca2a)*Summary of results*
+
+
 
 
 
