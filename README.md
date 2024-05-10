@@ -24,6 +24,9 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 
 ## Key findings
 
+### Exploratory Data Analysis (EDA) [^4]
+
+- Demographic
 
 
 ## References
@@ -31,5 +34,6 @@ The methodology for analyzing Highly Involved Players (HIPs) in gaming is a comp
 [^1]: [Market size of the online gambling industry worldwide in 2022, with a forecast for 2032](https://www.statista.com/statistics/270728/market-volume-of-online-gaming-worldwide/)
 [^2]: [Online Gambling Market Size, Share & Trends Analysis Report](https://www.grandviewresearch.com/industry-analysis/online-gambling-market)
 [^3]: [Second Session at the Virtual Poker Table](http://thetransparencyproject.org/Availabledataset.htm)
+[^4]: [Tom et al., 2022)](Tom, M. A., Edson, T. C., Louderback, E. R., Nelson, S. E., Amichia, K. A., & LaPlante, D. A. (2023). Second Session at the Virtual Poker Table: A Contemporary Study of Actual Online Poker Activity. Journal of Gambling Studies, 39(3), 1295-1317.)
 
 
